@@ -15,7 +15,10 @@ baseurl:          "" # the subpath of your site, e.g. /blog/
 
 twitter:          jekyllrb
 github:           jekyll
-disqus:           openmindhacker
+
+
+disqus:
+  short_name:     jekyllstart
 
 permalink:        pretty
 paginate:         5
