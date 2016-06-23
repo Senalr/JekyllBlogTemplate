@@ -6,7 +6,7 @@ Jekyll theme based on the Roon for [Ghost](http://github.com/tryghost/roon/).
 View this jekyll theme in action [here](https://vormwald.github.io/joon)
 
 ## Screenshot
-![screenshot](https://raw.githubusercontent.com/vormwald/joon/master/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/vormwald/joon/master/screenshot.jpg)
 
 ## Font Options
 
