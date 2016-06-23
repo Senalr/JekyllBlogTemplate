@@ -1335,8 +1335,6 @@ body>.no-posts [data-icon]:before {
  text-transform: uppercase;
  }
 }
-
-
 html[dir=rtl] article .text, html[dir=rtl] article .text *, html[dir=rtl] article .meta, html[dir=rtl] article .time, html[dir=rtl] article>header, html[dir=rtl] article header *, html[dir=rtl] body>a.btn.nav, html[dir=rtl] body>footer *, html[dir=rtl].post-footer, html[dir=rtl].post-footer * {
     text-align: right;
     direction: rtl

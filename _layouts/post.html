@@ -23,9 +23,8 @@ body_class: post-template
         {{ content }}
     </div>
 
-    {% if page.share != false %}
-    {% include _social-share.html %}
-    {% endif %}   
+   {% if page.comments != false %}
+   {% include disqus.html %}
 </article>
 
 {% include footer.html %}
