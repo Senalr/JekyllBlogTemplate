@@ -4,12 +4,22 @@ title: About
 permalink: /About/
 ---
 
-This is my attempt at porting the Roon theme over to Jekyll. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+<center>
+    <p><img src="http://dreamofbook.qiniudn.com/Zero.png" align="center"></p>
+</center>
 
-You can find the official Roon theme (for Ghost) at: [github.com/TryGhost/Roon/](https://github.com/TryGhost/Roon/)
+Ehhhh...I know it's not a good question.
 
-You can find the source code my Jekyll version of Roon: [github.com/vormwald/joon](https://github.com/vormwald/joon)
+My Name is Azeril. You may find me in sites like douban.com / Goodreads.com / Facebook / Instagram / Twitter / Weibo.com, so on and so forth. It’s easy to know me. My short name is Az., quite easy to remember, right?
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+喜欢折腾的伪技术宅。一点点 geek，一丢丢的执著，就像吃烧烤时多少会撒一点孜然，恰到好处就够。日常之中，多的是折腾劲，也希望能添几分专注、几许勇敢。这就是我。
 
-Enjoy!
+——Azeril
+
+
+> Live long and prosper
+
+<center>
+    <p><img src="http://dreamofbook.qiniudn.com/hacker.png" align="center"></p>
+</center>
+
