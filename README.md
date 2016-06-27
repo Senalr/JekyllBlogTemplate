@@ -1,33 +1,18 @@
-# Joon: Roon theme for Jekyll
+## 关于本主题
 
-Jekyll theme based on the Roon for [Ghost](http://github.com/tryghost/roon/).
+本模板是为让大家熟悉如何上手搭建 Jekyll 博客而使用的，在原模板的基础上做了部分的调整与优化。
 
-## Demo
-View this jekyll theme in action [here](https://vormwald.github.io/joon)
+希望大家通过这个博客模板掌握搭建博客的基础操作。当然，如果你喜欢，那也可以将此作为自己独立博客的模板来使用。
 
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/vormwald/joon/master/screenshot.jpg)
+本 Jekyll 博客主题模板为 Joon。Joon 主题基于另一个博客系统 **Ghost** 上的一个模板 [Roon](http://github.com/tryghost/roon/).
 
-## Font Options
+查看博客样式：[Live Demo](https://senalr.github.io)
 
-This theme comes with two font options; a serif and sans-serif (the default). 
-Switching between them is done in the HTML, by adding `serif` to the `class` of 
-the `<body>` element in [head.html](https://github.com/vormwald/joon/blob/master/_layouts/default.html.hbs#L6).
+## 搭建博客的最小行动方案
 
-## Colour Options
+1. Fork 主题博客的源码仓库（如果是使用这个模板博客，则是新建仓库，然后从学员仓库主目录中将 3Jekyll 文件夹下的 Jekyll Blog Theme 代码复制过去）
+2. 将博客仓库更名为：yourGitHubName.github.io
+3. 访问 yourGitHubName.github.io 域名，查看博客是否能正常使用
 
-This theme uses an accent colour for links and the border at the top of pages.
+对于任意博客皆可以这个最小行动来进行验证。如果博客可用，就可以对自己的博客模板进行进一步的个性化修改。
 
-To change this colour, you need to edit [assets/css/screen.css](https://github.com/vormwald/joon/blob/master/assets/css/screen.css).
-
-There are only two values you need to change, conveniently **located at the very
-top of the file**.
-
-## For More Information
-For more on Jekyll, read the [documentation](http://jekyllrb.com/)
-
-
-## Copyright & License
-
-Roon is Copyright (c) 2013-2015 Sam Soffes & Ghost Foundation - Released under 
-the [MIT license](LICENSE).
