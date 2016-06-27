@@ -1,18 +1,10 @@
 ---
 layout: post
-title:  "一些喜欢的歌"
-description: 
-image: roon.jpg
+title:  "小幸运"
+description: 原來你是 我最想留住的幸運
+image: OurTimes.png
 ---
 
-## 越听越好听
-
-一个粤语歌单
-
-<embed src="http://music.163.com/style/swf/widget.swf?sid=375691140&type=0&auto=1&width=310&height=430" width="330" height="450"  allowNetworking="all"></embed>
-
-
-## 小幸运
 
 《我的少女时代》主题曲。今年听到的歌中蛮触动自己心弦的一首。
 
