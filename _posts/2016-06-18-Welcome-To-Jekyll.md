@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to Jekyll!"
 categories: blog
 description: Jekyll 博客基本使用指南
-image: roon.jpg
+image: boating.jpg
 ---
 
 
