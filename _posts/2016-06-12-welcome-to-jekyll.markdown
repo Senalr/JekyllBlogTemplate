@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Jekyll!"
 categories: blog
-description: 笔记摘录
+description: Jekyll 博客基本使用指南
 image: roon.jpg
 ---
 
