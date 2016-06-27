@@ -3,7 +3,7 @@ title:            "Stardust"
 author:           Azeril
 logo:             logo.png # image from https://www.flickr.com/photos/lwr/5496279831/in/set-72157594159055823
 avatar:           avatar.png
-favicon:          favicon.png
+favicon:          favicon.ico
 email:            your-email@domain.com
 description: > # this means to ignore newlines until "url:"
   Roon was an excellent service, with a beautiful understated design. After
