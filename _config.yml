@@ -10,7 +10,7 @@ description: >    # 主题简介，可改为博客描述
   being acquired by <a href='https://ghost.org'>Ghost</a>, the Roon theme was
   open sourced.<br> This is my Jekyll port of the Roon theme.
 
-url:              "/" # 主站链接，可以使用「/」作为博客根链接，也可以在这里添加域名（不需要 http:// 前缀）
+url:              "/" # 添加域名（不需要 http:// 前缀），或使用「/」作为博客根链接，
 baseurl:          "" # the subpath of your site, e.g. /blog/
 
 twitter:          # 添加你的 Twitter 用户名
