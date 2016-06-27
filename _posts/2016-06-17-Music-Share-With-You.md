@@ -9,7 +9,7 @@ image: roon.jpg
 
 一个粤语歌单
 
-<embed src="http://music.163.com/style/swf/widget.swf?sid=375691140&type=0&auto=1&width=310&height=430" width="330" height="450"  allowNetworking="all">
+<embed src="http://music.163.com/style/swf/widget.swf?sid=375691140&type=0&auto=1&width=310&height=430" width="330" height="450"  allowNetworking="all"></embed>
 
 
 ## 小幸运
