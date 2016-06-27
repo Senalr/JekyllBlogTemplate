@@ -2,7 +2,7 @@
 layout: post
 title:  "小幸运"
 description: 原來你是 我最想留住的幸運
-image: ourtimes.png
+image: ourtimes.jpg
 ---
 
 
