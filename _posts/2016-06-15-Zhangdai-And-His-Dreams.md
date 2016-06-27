@@ -2,7 +2,7 @@
 layout: post
 title:  "陶庵梦忆"
 description: 张岱的陶庵梦忆 写尽了那一个时代的繁华与心酸
-image: header.jpg
+image: xihu.jpg
 ---
 
 Created 141025  
