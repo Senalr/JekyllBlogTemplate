@@ -18,7 +18,7 @@ github:           # 添加你的 GitHub 用户名
 disqus:           # 添加你的 Disqus 评论工具站点名
 
 permalink:        pretty
-paginate:         5
+paginate:         6
 
 # Build settings
 markdown:         kramdown
